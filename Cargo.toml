@@ -1,6 +1,6 @@
 [package]
 name = "demo-rust"
 version = "0.1.0"
-authors = ["Isaac <isaac@emosaic.co.uk>"]
+authors = ["Isaac <mulen18@gmail.com>"]
 
 [dependencies]
